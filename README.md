@@ -1,6 +1,23 @@
-# onewayfrontlesson
-This is for Oneway's lesson Frontend e-commers course
+# Заметки/Вопросы
 
-gulp-plumber???
+12.04. - 15.04. - Рабочие дни
 
-необходимо установить postcss. без него не работал gulp - не собирал build (npm install -d postcss)
+16.04. - Начало отпуска!
+
+15.04. - Попытка настроить gulp своими силами под свою дирректорию. - FAIL
+
+16.04. - Настройка gulp, пересборка проекта по тутору из видео с курса. (gulp-plumber не подключал)
+            1. Установка и проверка пред- пост- процессингов стилей, Pug, Imagemin;
+            2. Ошибки Git при попытке вывода build на хостинг github.io прямо из проекта;
+            3. Разбор Open-graph, настройка базовая.
+            4. Ошибка с postcss при сборке gulp. Оказалось необходимо ввести команду "npm install -d postcss" до "npm install -d gulp-postcss autoprefixer cssnano"
+
+17.04. - 1. Пришел к решению развести репозитории для хостинга и для проекта на onewayfrontendbuild и onewayfrontlesson соответственно.
+
+
+
+
+
+
+
+
